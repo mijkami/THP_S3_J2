@@ -1,17 +1,13 @@
-Hi, Welcome in my AMAZING app where you can save emails from french town halls. WOOWWW. CRAZY.
+Bienvenue, bienvenue...
 
-1- Download my repo
+1- Télécharger / cloner repo
 
-2- With your terminal, go in the main directory(bdd).
+2- Ouvrir terminal à la racine
 
-3- Terminal: bundle install
+3- $ bundle install
 
-4- Terminal: ruby app.rb
+4- $ ruby app.rb
 
-5- Follow the prompt
+5- Choisir parmi les 3 options
 
-If you want to check if the Google Spreadsheet worked, go to : https://docs.google.com/spreadsheets/d/1pz_txPkFK2ToS0k5T-4oE4ULFfhCv75lK0wnOSl4qrQ/edit#gid=0
-
-The spreadsheet should be empty, if it's not, just use your mouse and erase all the content
-
-If there is a problem to save in Json/CSV, go in the main directory's app to lib/ and remove all the files
+Pour l'option 2, le spreadsheet PUBLIC (tout péquin ou éminent moussaillon peut effacer à loisir le contenu) ciblé se trouve ici : https://docs.google.com/spreadsheets/d/1FXkW8uXFQShvi1oO_nDawHPrmlUTDBx0qRYqrphN6t0/edit#gid=0
